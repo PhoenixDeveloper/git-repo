@@ -11,6 +11,7 @@ namespace BMO.GitStart.CSharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.Write("Test");
         }
     }
 }
